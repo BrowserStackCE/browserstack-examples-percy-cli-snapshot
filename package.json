@@ -1,0 +1,17 @@
+{
+  "name": "percy-cli-standalone",
+  "version": "1.0.0",
+  "description": "Percy CLI standalone capabilities",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "percy-cli"
+  ],
+  "author": "browserstackce",
+  "license": "ISC",
+  "devDependencies": {
+    "@percy/cli": "^1.21.0"
+  }
+}
