@@ -1,0 +1,16 @@
+version: 2
+snapshot:
+  widths:
+    - 1280
+  minHeight: 1024
+  enableJavaScript: true
+  disableShadowDOM: true
+  percyCSS: |
+    div[role="dialog"] { visibility: hidden;}
+discovery:
+  allowedHostnames: []
+  disallowedHostnames: []
+  networkIdleTimeout: 100
+  device-pixel-ratio: 2
+
+

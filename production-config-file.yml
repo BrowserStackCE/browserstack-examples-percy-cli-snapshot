@@ -1,0 +1,6 @@
+- name: Home Page
+  url: https://www.bstackdemo.com/
+  execute: "window.scrollTo(0, document.body.scrollHeight);"
+- name: SignIn Page
+  url: https://bstackdemo.com/signin
+- 

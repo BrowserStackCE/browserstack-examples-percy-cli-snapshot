@@ -1,0 +1,6 @@
+- name: Home Page
+  url: http://localhost:3000/
+  execute: "window.scrollTo(0, document.body.scrollHeight);"
+- name: SignIn Page
+  url: http://localhost:3000/signin
+- 
